@@ -1,6 +1,6 @@
 +++
 title = "Mem :3"
-description = "I'm cool"
+description = "Yipii"
 +++
 
 ## Hey!
@@ -9,15 +9,16 @@ I'm a 19 year old enby who really likes music and various different video games.
 
 ---
 
-- ### <ins>Discord</ins>
-- ### [Music](https://thatonesaxguy.bandcamp.com/ "thatonesaxguy")
+- ### <p title=Mem#9902><ins>Discord</ins></p>
 
-- ### [Twitter](https://twitter.com/Thatonesaxguy "@Thatonesaxguy")
+- ### <a href="https://thatonesaxguy.bandcamp.com/" title="thatonesaxguy" target="_blank">Music</a>
 
-- ### [slimegirlsdaily](https://twitter.com/slimegirlsdaily "@slimegirlsdaily")
+- ### <a href="https://twitter.com/Thatonesaxguy" title="@thatonesaxguy" target="_blank">Twitter</a>
 
-- ### [Twitch](https://www.twitch.tv/mem0451 "Mem0451")
+- ### <a href="https://twitter.com/slimegirlsdaily" title="@slimegirlsdaily" target="_blank">slimegirlsdaily</a>
 
-- ### [Tumblr](https://www.tumblr.com/mem0451 "@mem0451")
+- ### <a href="https://www.twitch.tv/mem0451" title="Mem0451" target="_blank">Twitch</a>
+
+- ### <a href="https://www.tumblr.com/mem0451" title="@mem0451" target="_blank">Tumblr</a>
 
 _Currently very very WIP as I'm also relearning HTML and Markdown and CSS and also have a bad case of the ADHD, so this will probably be constantly changing_
