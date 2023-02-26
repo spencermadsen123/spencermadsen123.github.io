@@ -9,8 +9,6 @@ I'm a 19 year old enby who really likes music and various different video games.
 
 ---
 
-- ### <p title=Mem#9902><ins>Discord</ins></p>
-
 - ### <a href="https://thatonesaxguy.bandcamp.com/" title="thatonesaxguy" target="_blank">Music</a>
 
 - ### <a href="https://twitter.com/Thatonesaxguy" title="@thatonesaxguy" target="_blank">Twitter</a>
@@ -20,5 +18,7 @@ I'm a 19 year old enby who really likes music and various different video games.
 - ### <a href="https://www.twitch.tv/mem0451" title="Mem0451" target="_blank">Twitch</a>
 
 - ### <a href="https://www.tumblr.com/mem0451" title="@mem0451" target="_blank">Tumblr</a>
+
+- ### <p title=Mem#9902><ins>Discord</ins></p>
 
 _Currently very very WIP as I'm also relearning HTML and Markdown and CSS and also have a bad case of the ADHD, so this will probably be constantly changing_
