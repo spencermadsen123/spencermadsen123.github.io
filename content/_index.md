@@ -19,6 +19,12 @@ I'm a 19 year old enby who really likes music and various different video games.
 
 - ### <a href="https://www.tumblr.com/mem0451" title="@mem0451" target="_blank">Tumblr</a>
 
-- ### <p title=Mem#9902><ins>Discord</ins></p>
+- ### <p style="color: #28a3c9;" title=Mem#9902><ins>Discord</ins></p>
 
-_Currently very very WIP as I'm also relearning HTML and Markdown and CSS and also have a bad case of the ADHD, so this will probably be constantly changing_
+---
+
+<br><br><br><br><br><br><br><br>
+
+<!-- Gotta eventually figure out how to put this at the bottom of the screen, or at least lower without fucking up where all the other text is -->
+
+<small><i>Currently very very WIP as I'm also relearning HTML and Markdown and CSS and also have a bad case of the ADHD, so this will probably be constantly changing</i></small>
