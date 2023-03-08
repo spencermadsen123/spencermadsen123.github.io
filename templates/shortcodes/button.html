@@ -1,0 +1,12 @@
+<!-- prettier-ignore -->
+{% if not alt %}
+  {% set alt = "" %}
+{% endif %}
+
+{% if link %}
+<a href="{{ link }}">
+  <img src="{{ img }}" alt="{{ alt }}" />
+</a>
+{% else %}
+<img src="{{ img }}" alt="{{ alt }}" />
+{% endif %}

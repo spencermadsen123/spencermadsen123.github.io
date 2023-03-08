@@ -19,11 +19,17 @@ I'm a 19 year old enby who really likes music and various different video games.
 
 - ### <a href="https://www.tumblr.com/mem0451" title="@mem0451" target="_blank">Tumblr</a>
 
-- ### <p style="color: #28a3c9;" title=Mem#9902><ins>Discord</ins></p>
+- ### <p style="color: #00ffc8;" title=Mem#9902>Discord</p>
 
 ---
 
-<br><br><br><br><br><br><br><br>
+<a href="https://n2.pm" target="_blank"> {{button(img = "/buttons/notnet.png" alt="NotNet")}} </a>
+<a href="https://3drealms.com" target="_blank"> {{button(img = "/buttons/3drlink.gif" alt="3D Realms")}} </a>
+<a href="https://vivaldi.com" target="_blank"> {{button(img = "/buttons/vivaldi.gif" alt="I use Vivaldi!")}} </a>
+ {{button(img = "/buttons/viewedwitheyes.gif" alt="Best viewed with eyes")}}
+<a href="https://www.ableton.com" target="_blank"> {{button(img = "/buttons/ableton.gif" alt="Ableton Live")}} </a>
+
+<br><br><br><br><br><br><br>
 
 <!-- Gotta eventually figure out how to put this at the bottom of the screen, or at least lower without fucking up where all the other text is -->
 
