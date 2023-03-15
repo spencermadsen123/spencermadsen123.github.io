@@ -28,6 +28,7 @@ I'm a 19 year old enby who really likes music and various different video games.
 <a href="https://vivaldi.com" target="_blank"> {{button(img = "/buttons/vivaldi.gif" alt="I use Vivaldi!")}} </a>
  {{button(img = "/buttons/viewedwitheyes.gif" alt="Best viewed with eyes")}}
 <a href="https://www.ableton.com" target="_blank"> {{button(img = "/buttons/ableton.gif" alt="Ableton Live")}} </a>
+<a href="https://store.steampowered.com/app/2310/Quake/" target="_blank"> {{button(img = "/buttons/quake-now.png" alt="Quake... NOW!")}} </a>
 
 <br><br><br><br><br><br><br>
 
