@@ -32,6 +32,7 @@ I'm a 19 year old enby who really likes music and various different video games.
 {{button(img = "/buttons/crushit.gif" alt="Crush capitalism :3")}}
 {{button(img = "/buttons/drpepper.gif" alt="Powered by Dr. Pepper")}}
 {{button(img = "/buttons/drmario.gif" alt="You are gay.")}}
+{{button(img = "/buttons/ceracoin.png" alt="BUY CERACOIN.")}}
 <br><br><br><br><br><br><br>
 
 <!-- Gotta eventually figure out how to put this at the bottom of the screen, or at least lower without fucking up where all the other text is -->
