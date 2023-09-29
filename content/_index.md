@@ -5,7 +5,7 @@ description = "Yipii"
 
 ## Hey!
 
-I'm a 19 year old enby who really likes music and various different video games. Currently working on a minor unnanounced project as well as continuing to make music on my own time.
+I'm a 19 year old enby who really likes music and various different video games. Currently working on a new album, kinda.
 
 ---
 
@@ -18,6 +18,8 @@ I'm a 19 year old enby who really likes music and various different video games.
 - ### <a href="https://www.twitch.tv/mem0451" title="Mem0451" target="_blank">Twitch</a>
 
 - ### <a href="https://www.tumblr.com/mem0451" title="@mem0451" target="_blank">Tumblr</a>
+
+- ### <a href="https://coolmathgam.es/@Mem" title="@Mem@coolmathgam.es" target="_blank">Fediverse</a>
 
 - ### <p style="color: #00ffc8;" title=Mem#9902>Discord</p>
 
