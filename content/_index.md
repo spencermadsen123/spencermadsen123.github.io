@@ -21,7 +21,7 @@ I'm a 19 year old enby who really likes music and various different video games.
 
 - ### <a href="https://coolmathgam.es/@Mem" title="@Mem@coolmathgam.es" target="_blank">Fediverse</a>
 
-- ### <p style="color: #00ffc8;" title=Mem#9902>Discord</p>
+- ### <p style="color: #00ffc8;" title=Mem0451>Discord</p>
 
 ---
 
