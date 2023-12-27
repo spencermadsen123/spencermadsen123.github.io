@@ -26,13 +26,14 @@ I'm a 20 year old enby who really likes music and various different video games.
 ---
 
 <a href="https://n2.pm" target="_blank"> {{button(img = "/buttons/notnet.png" alt="NotNet")}} </a>
-<a href="https://3drealms.com" target="_blank"> {{button(img = "/buttons/3drlink.gif" alt="3D Realms")}} </a>
-<a href="https://vivaldi.com" target="_blank"> {{button(img = "/buttons/vivaldi.gif" alt="I use Vivaldi!")}} </a>
+{{button(img = "/buttons/drpepper.gif" alt="Powered by Dr. Pepper")}}
 {{button(img = "/buttons/viewedwitheyes.gif" alt="Best viewed with eyes")}}
+<a href="https://vivaldi.com" target="_blank"> {{button(img = "/buttons/vivaldi.gif" alt="I use Vivaldi!")}} </a>
+<a href="https://eightyeightthirty.one" target="_blank"> {{button(img = "/buttons/88x31.png" alt="eightyeightthirtyone")}} </a>
+<a href="https://3drealms.com" target="_blank"> {{button(img = "/buttons/3drlink.gif" alt="3D Realms")}} </a>
 <a href="https://www.ableton.com" target="_blank"> {{button(img = "/buttons/ableton.gif" alt="Ableton Live")}} </a>
 <a href="https://store.steampowered.com/app/2310/Quake/" target="_blank"> {{button(img = "/buttons/quake-now.png" alt="Quake... NOW!")}} </a>
 {{button(img = "/buttons/crushit.gif" alt="Crush capitalism :3")}}
-{{button(img = "/buttons/drpepper.gif" alt="Powered by Dr. Pepper")}}
 {{button(img = "/buttons/drmario.gif" alt="You are gay.")}}
 {{button(img = "/buttons/ceracoin.png" alt="BUY CERACOIN.")}}
 <br><br><br><br><br><br><br>
